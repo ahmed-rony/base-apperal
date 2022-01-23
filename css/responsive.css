@@ -1,0 +1,158 @@
+@media (max-width: 575px){
+    /* ===========   logo starts   ============= */
+    .logo .logo-content{
+        top: 15px;
+        left: 15px;
+    }
+    /* ===========   logo   ends   ============= */
+
+    /* ===========   banner starts   ============= */
+    #banner .banner-img .mob-img{
+        padding-top: 90px;
+        width: 100%;
+    }
+    #banner .banner-text{
+        padding-top: 30px;
+        padding-bottom: 50px;
+        text-align: center;
+    }
+    #banner .banner-text h1{
+        padding-right: 30px;
+        padding-left: 35px;
+        font-size: 45px;
+        font-weight: 500;
+        line-height: 50px;
+    }
+    #banner .banner-text p{
+        padding-right: 6px;
+        padding-top: 15px;
+        padding-bottom: 20px;
+    }
+    #banner .banner-text .email-1{
+        width: 250px;
+        line-height: 45px;
+        margin-left: -25px;
+        font-size: 15px;
+    }
+    #banner .banner-text form .sub-1{
+        margin-left: -200px;
+    }
+    #banner .banner-text form .sub-1 i{
+        line-height: 47px;
+    }
+    #banner .banner-text form .err{
+        left: 40px;
+    }
+    #banner .banner-text form .err .icon-1{
+        top: -43px;
+        right: 40px;
+    }
+    /* ===========   banner   ends   ============= */
+    
+}
+@media (min-width: 576px) and (max-width: 767px){
+
+    /* ===========   logo starts   ============= */
+    .logo .logo-content{
+        top: 15px;
+        left: 15px;
+    }
+    /* ===========   logo   ends   ============= */
+
+    /* ===========   banner starts   ============= */
+    #banner .banner-img .mob-img{
+        padding-top: 90px;
+        width: 100%;
+    }
+    #banner .banner-text{
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    #banner .banner-text h1{
+        padding-right: 30px;
+        padding-left: 35px;
+        font-size: 50px;
+        font-weight: 500;
+    }
+    #banner .banner-text p{
+        margin-left: -50px;
+        padding-right: 50px;
+        padding-top: 15px;
+        padding-bottom: 20px;
+        padding-left: 100px;
+    }
+    #banner .banner-text .email-1{
+        width: 350px;
+        line-height: 45px;
+        margin-left: -60px;
+    }
+    #banner .banner-text form .sub-1{
+        margin-left: -25px;
+    }
+    #banner .banner-text form .sub-1 i{
+        line-height: 47px;
+    }
+    #banner .banner-text form .err{
+        left: 85px;
+    }
+    #banner .banner-text form .err .icon-1{
+        top: -43px;
+        right: -90px;
+    }
+    /* ===========   banner   ends   ============= */
+
+}
+@media (min-width: 768px) and (max-width: 991px){
+
+    /* ===========   logo starts   ============= */
+    .logo .logo-content{
+        top: 10px;
+        left: 80px;
+    }
+    /* ===========   logo   ends   ============= */
+
+    /* ===========   banner starts   ============= */
+    #banner .banner-img .mob-img{
+        padding-top: 90px;
+        width: 80%;
+    }
+    #banner .banner-text{
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    #banner .banner-text h1{
+        padding-right: 76px;
+        padding-left: 90px;
+        font-size: 50px;
+        font-weight: 500;
+    }
+    #banner .banner-text p{
+        margin-left: 40px;
+        padding-right: 115px;
+        padding-top: 15px;
+        padding-bottom: 20px;
+        padding-left: 100px;
+    }
+    #banner .banner-text .email-1{
+        width: 350px;
+        line-height: 45px;
+        margin-left: -60px;
+    }
+    #banner .banner-text form .sub-1{
+        margin-left: 75px;
+    }
+    #banner .banner-text form .sub-1 i{
+        line-height: 47px;
+    }
+    #banner .banner-text form .err{
+        left: 160px;
+    }
+    #banner .banner-text form .err .icon-1{
+        top: -43px;
+        right: -115px;
+    }
+    /* ===========   banner   ends   ============= */
+    
+}

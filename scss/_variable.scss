@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+img{
+    vertical-align: middle;
+}
+
+/* ======================   common css   ================== */
+
+$josefin: 'Josefin Sans', sans-serif;
+
+$d-red: hsl(0, 36%, 70%);
+$s-red: hsl(0, 93%, 68%);
+$dg-red: hsl(0, 6%, 24%);
+
+$grad1: Linear, 135deg, from hsl(0, 0%, 100%), to hsl(0, 100%, 98%);
+$grad2: Linear, 135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%);

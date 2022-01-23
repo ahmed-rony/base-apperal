@@ -1,0 +1,35 @@
+@import 'variable';
+
+/* ================   logo starts   =================*/ 
+.logo{
+    // padding-top: 60px;
+    // background: #f1cc9b;
+    .logo-content{
+        top: 45px;
+        .ring{
+            display: inline-block;
+            position: relative;
+            i{
+                font-size: 33px;
+                position: absolute;
+                top: -12px;
+                left: 0;
+                color: $s-red;
+            }
+        }
+        .logo-text{
+            display: inline-block;
+            margin-left: 37px;
+            h5{
+                display: flex;
+                flex-direction: column;
+                font-family: $josefin;
+                font-size: 16px;
+                font-weight: 700;
+                color: $dg-red;
+                letter-spacing: 3px;
+            }
+        }
+    }
+}
+/* ================   logo   ends   ================= */ 
